@@ -1,0 +1,15 @@
+.background-green {
+    background-color: #43a047;
+}
+.background-red {
+    background-color: #e53935;
+}
+.centeredFlexBox {
+    justify-content: center;
+    display: flex;
+}
+.spacer {
+    /* flex: 1; */
+    margin: 0 10px;
+    border: black solid 2px;
+}
