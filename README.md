@@ -43,7 +43,7 @@ open http://localhost:3000/ in your preferred browser
 
 ## Usage
 
-[Try it out in the browser](https://blankjr.github.io/pokesearch/)
+[Try it out in the browser](https://mypokesearch.netlify.app/)
 
 -   Use the key combination Ctrl + f on Windows/Linux or Cmd + f on MacOS
 -   Enter the name or part of it you are interested in in the search box
