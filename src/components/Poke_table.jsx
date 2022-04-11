@@ -24,9 +24,9 @@ function Poke_table() {
                     <tr>
                         <th>Name [DE]</th>
                         <th>Name [EN]</th>
-                        <th>Typ 1</th>
+                        <th>Type 1</th>
                         <th>Type 2</th>
-                        <th>Fang-Rate</th>
+                        <th>Catch rate</th>
                     </tr>
                 </thead>
                 <tbody>
